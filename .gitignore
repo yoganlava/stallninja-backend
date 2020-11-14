@@ -1,0 +1,4 @@
+.env
+ormconfig.json
+Dockerfile
+node_modules
